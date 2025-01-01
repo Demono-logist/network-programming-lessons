@@ -1,0 +1,86 @@
+﻿[
+    {
+        "exchangedate": "11.11.2024",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 41.2982,
+        "units": 1,
+        "rate_per_unit": 41.2982,
+        "group": "1",
+        "calcdate": "08.11.2024"
+    },
+    {
+        "exchangedate": "12.11.2024",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 41.2981,
+        "units": 1,
+        "rate_per_unit": 41.2981,
+        "group": "1",
+        "calcdate": "11.11.2024"
+    },
+    {
+        "exchangedate": "13.11.2024",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 41.3763,
+        "units": 1,
+        "rate_per_unit": 41.3763,
+        "group": "1",
+        "calcdate": "12.11.2024"
+    },
+    {
+        "exchangedate": "14.11.2024",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 41.3413,
+        "units": 1,
+        "rate_per_unit": 41.3413,
+        "group": "1",
+        "calcdate": "13.11.2024"
+    },
+    {
+        "exchangedate": "15.11.2024",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 41.2446,
+        "units": 1,
+        "rate_per_unit": 41.2446,
+        "group": "1",
+        "calcdate": "14.11.2024"
+    },
+    {
+        "exchangedate": "16.11.2024",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 41.2446,
+        "units": 1,
+        "rate_per_unit": 41.2446,
+        "group": "1",
+        "calcdate": "14.11.2024"
+    },
+    {
+        "exchangedate": "17.11.2024",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 41.2446,
+        "units": 1,
+        "rate_per_unit": 41.2446,
+        "group": "1",
+        "calcdate": "14.11.2024"
+    }
+]
